@@ -1,7 +1,5 @@
 package org.example;
 
-import org.example.UnionFind;
-
 import java.util.*;
 
 public class Task3 {
